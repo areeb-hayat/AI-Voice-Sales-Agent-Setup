@@ -62,3 +62,13 @@ uvicorn
 websockets
 win32_setctime
 yarl
+uvloop
+gunicorn
+aiofiles
+python-json-logger
+tenacity
+jinja2
+psycopg2-binary
+elevenlabs
+
+
